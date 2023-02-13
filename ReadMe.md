@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Oussama Samer and i'm 23 years old. I'm third year computer engineering student at Ondokuz Mayis university in Samsun, Turkey and ex ESI student in Algeria<br>I'm junior flutter developper and currently learning react.js for front end web development
+Hey, my name is Oussama Samer and i'm 23 years old. I'm third year computer engineering student at Ondokuz Mayis university in Samsun, Turkey and ex ESI student in Algeria<br>I'm a junior flutter developper and currently learning react.js for front end web development
 
 
 ## 🌐 Socials:
