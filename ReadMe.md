@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Oussama Samer and i'm 24 years old. I'm final year computer engineering student at Ondokuz Mayis university in Samsun, Turkey and ex ESI student in Algeria<br>I'm a junior Flutter and Node.js developper.
+Hey, my name is Oussama Samer and i'm 24 years old. I'm final year computer engineering student at Ondokuz Mayis university in Samsun, Turkey and ex ESI student in Algeria<br>I'm a junior Flutter and Express.js developper.
 
 
 ## 🌐 Socials:
