@@ -1,5 +1,5 @@
 # 💫 About Me:
-With 6 years of coding experience, i specialize in software engineering using Flutter with React.js for the frontend and Node.js with Java Spring Boot for the backend.
+i code.
 
 
 ## 🌐 Socials:
