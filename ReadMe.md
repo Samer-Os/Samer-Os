@@ -1,25 +1,83 @@
-# 💫 About Me
-Hi, I'm Oussama! 👋 
+# Hi, I'm Oussama Samer 
 
-I'm a Software Engineer. I enjoy taking ideas from the prototype phase to production, whether that's building web and mobile apps, integrating APIs, or solving high-friction B2B problems. 
+<pre>
+   ____  _    _  _____  _____         __  __          
+  / __ \| |  | |/ ____|/ ____|  /\   |  \/  |   /\    
+ | |  | | |  | | (___ | (___   /  \  | \  / |  /  \   
+ | |  | | |  | |\___ \ \___ \ / /\ \ | |\/| | / /\ \  
+ | |__| | |__| |____) |____) / ____ \| |  | |/ ____ \ 
+  \____/ \____/|_____/|_____/_/    \_\_|  |_/_/    \_\
+</pre>
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## About Me:
 
-# 📊 GitHub Stats
-![samer-os GitHub Stats](https://github-readme-stats.vercel.app/api?username=samer-os&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![samer-os GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samer-os&theme=react&hide_border=false)
-<br/>
-![samer-os Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samer-os&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 Currently pursuing an MS in Software Engineering at Samsun University (and getting ready for an Erasmus+ semester at POLITEHNICA Bucharest this September!).
+- 🚀 Previously Co-Founder & CTO at Voxaar, where I built an AI voice MVP integrating ElevenLabs and Retell AI APIs.
+- 💻 Successfully delivered a technical Proof of Concept for Türk Telekom.
+- 🛠️ Passionate about full-stack development and taking B2B ideas from prototype to production.
+- 🎮 Exploring game development by building a strategy game called Warlandia using Phaser.
+- 🎨 Developing a line-art embroidery brand and e-commerce platform called Çizva.
+- 🌍 Multilingual professional: Fluent in English, French, Turkish, and Arabic.
+- 📦 Relocating to Istanbul for the summer of 2026!
 
-## 🏆 GitHub Trophies
-![samer-os GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samer-os&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Skill Set:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<table><tr><td valign="top" width="25%">
 
----
-[![](https://visitcount.itsvg.in/api?id=samer-os&icon=6&color=0)](https://visitcount.itsvg.in)
+### Frontend  
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,sass&perline=4" /> 
+</div>
+ </td><td valign="top" width="25%">
+        
+### Backend & Langs
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=nodejs,express,ruby,c,cs,java,dart&perline=4" /> 
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td><td valign="top" width="25%">
+  
+### Mobile & Data
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=flutter,firebase,mongodb,mysql,sqlite,postman,nginx&perline=4" /> 
+</div>
+</td>
+</tr></table>
+
+
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/oussamasamer/" target="_blank"><img src="https://img.shields.io/badge/-Oussama%20Samer-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Contact%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
+
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/samer-os">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samer-os&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samer-os&layout=compact&theme=onedark&hide_border=true" />
+    </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/samer-os">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=samer-os&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=20px"/>
+  </a> 
+</p>
+
+ <p align="center">
+   <a href="https://github.com/samer-os"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=samer-os&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+<div id="header" align="center">
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samer-os&theme=onedark" alt="samer-os trophies" /></a> </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=samer-os&style=for-the-badge&color=orange" alt="Profile Views"/>
+</div>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
