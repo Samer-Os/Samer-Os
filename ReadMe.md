@@ -5,7 +5,7 @@
     <td valign="top" width="33%">
       <h3>Languages</h3>
       <div align="center">  
-        <img src="https://skillicons.dev/icons?i=ts,python,dart,java,cs,go&perline=3" /> 
+        <img src="https://skillicons.dev/icons?i=ts,python,go,dart&perline=3" /> 
       </div>
     </td>
     <td valign="top" width="33%">
@@ -17,7 +17,7 @@
     <td valign="top" width="33%">
       <h3>Backend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring&perline=3" /> 
+        <img src="https://skillicons.dev/icons?i=nodejs,go&perline=3" /> 
       </div>
     </td>
   </tr>
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-**Cloud & AI Tools:** Render • Claude Code • Google Antigravity • Cursor • Windsurf
+**Frameworks & AI Tools:** React Native • Expo • Render • Claude Code • Google Antigravity • Cursor • Windsurf
 
 ## 📊 GitHub Stats
 <p align="center">
