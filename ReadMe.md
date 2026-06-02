@@ -45,27 +45,24 @@
 
 **Frameworks & AI Tools:** React Native • Expo • Render • Claude Code • Google Antigravity • Cursor • Windsurf
 
-## 📊 GitHub Stats
-<p align="center">
-    <a href="https://github.com/Samer-Os">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samer-Os&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samer-Os&layout=compact&theme=onedark&hide_border=true" />
-    </a>
-</p>
+# 📊 GitHub Stats
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Samer-Os">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Samer-Os&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=20px"/>
-  </a> 
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Samer-Os&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
- <p align="center">
-   <a href="https://github.com/Samer-Os"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samer-Os&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Samer-Os&theme=react&hide_border=false)<br/>
 
-<div id="header" align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samer-Os&theme=onedark" alt="Samer-Os trophies" /></a> </p>
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samer-Os&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Samer-Os&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Samer-Os&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
